@@ -1,0 +1,145 @@
+Transaction_ID,Date,Time,Day_of_Week,Product,Quantity,Unit_Price_AED,Total_Amount_AED,Payment_Method
+1167,2025-02-01,09:40,Saturday,Pastry,1,25,25,Card
+1168,2025-02-01,17:01,Saturday,Latte,2,20,40,Cash
+1169,2025-02-01,10:37,Saturday,Latte,1,20,20,Card
+1170,2025-02-01,18:21,Saturday,Latte,1,20,20,Card
+1171,2025-02-01,17:25,Saturday,Espresso,1,15,15,Cash
+1172,2025-02-01,08:12,Saturday,Latte,1,20,20,Card
+1173,2025-02-01,09:39,Saturday,Espresso,1,15,15,Card
+1174,2025-02-02,14:03,Sunday,Espresso,1,15,15,Card
+1175,2025-02-02,09:41,Sunday,Latte,1,20,20,Digital Wallet
+1176,2025-02-02,18:17,Sunday,Cappuccino,1,20,20,Cash
+1177,2025-02-02,18:55,Sunday,Espresso,1,15,15,Card
+1178,2025-02-02,11:14,Sunday,Espresso,1,15,15,Card
+1179,2025-02-02,11:11,Sunday,Pastry,1,25,25,Digital Wallet
+1180,2025-02-02,07:41,Sunday,Cappuccino,1,20,20,Card
+1181,2025-02-03,13:48,Monday,Cappuccino,1,20,20,Cash
+1182,2025-02-03,18:35,Monday,Latte,1,20,20,Card
+1183,2025-02-03,08:16,Monday,Cappuccino,2,20,40,Card
+1184,2025-02-03,15:50,Monday,Espresso,1,15,15,Card
+1185,2025-02-03,07:01,Monday,Sandwich,1,35,35,Digital Wallet
+1186,2025-02-03,17:55,Monday,Espresso,1,15,15,Card
+1187,2025-02-04,09:54,Tuesday,Espresso,1,15,15,Card
+1188,2025-02-04,17:41,Tuesday,Espresso,1,15,15,Cash
+1189,2025-02-04,16:19,Tuesday,Latte,1,20,20,Digital Wallet
+1190,2025-02-04,10:23,Tuesday,Cappuccino,1,20,20,Card
+1191,2025-02-05,09:56,Wednesday,Latte,1,20,20,Cash
+1192,2025-02-05,19:57,Wednesday,Latte,1,20,20,Card
+1193,2025-02-05,09:58,Wednesday,Espresso,1,15,15,Cash
+1194,2025-02-06,16:11,Thursday,Latte,1,20,20,Digital Wallet
+1195,2025-02-06,07:02,Thursday,Espresso,1,15,15,Digital Wallet
+1196,2025-02-06,15:05,Thursday,Cappuccino,1,20,20,Cash
+1197,2025-02-06,08:41,Thursday,Espresso,1,15,15,Digital Wallet
+1198,2025-02-06,14:25,Thursday,Latte,1,20,20,Digital Wallet
+1199,2025-02-07,14:31,Friday,Latte,1,20,20,Cash
+1200,2025-02-07,19:21,Friday,Latte,1,20,20,Card
+1201,2025-02-07,19:47,Friday,Pastry,1,25,25,Cash
+1202,2025-02-08,13:18,Saturday,Cappuccino,1,20,20,Card
+1203,2025-02-08,10:09,Saturday,Espresso,1,15,15,Card
+1204,2025-02-08,18:24,Saturday,Cappuccino,1,20,20,Digital Wallet
+1205,2025-02-08,12:41,Saturday,Cappuccino,1,20,20,Card
+1206,2025-02-08,08:31,Saturday,Latte,1,20,20,Card
+1207,2025-02-08,16:15,Saturday,Latte,1,20,20,Digital Wallet
+1208,2025-02-08,19:40,Saturday,Sandwich,1,35,35,Card
+1209,2025-02-09,16:41,Sunday,Espresso,1,15,15,Card
+1210,2025-02-09,13:45,Sunday,Latte,1,20,20,Cash
+1211,2025-02-09,17:08,Sunday,Latte,1,20,20,Card
+1212,2025-02-09,08:49,Sunday,Espresso,1,15,15,Digital Wallet
+1213,2025-02-09,15:05,Sunday,Espresso,1,15,15,Cash
+1214,2025-02-09,19:31,Sunday,Espresso,1,15,15,Card
+1215,2025-02-10,15:08,Monday,Pastry,1,25,25,Card
+1216,2025-02-10,18:10,Monday,Latte,1,20,20,Card
+1217,2025-02-10,12:09,Monday,Espresso,1,15,15,Cash
+1218,2025-02-11,11:04,Tuesday,Pastry,2,25,50,Card
+1219,2025-02-11,13:51,Tuesday,Espresso,2,15,30,Digital Wallet
+1220,2025-02-11,16:55,Tuesday,Sandwich,1,35,35,Digital Wallet
+1221,2025-02-11,17:06,Tuesday,Latte,1,20,20,Digital Wallet
+1222,2025-02-11,09:36,Tuesday,Latte,1,20,20,Cash
+1223,2025-02-11,16:09,Tuesday,Latte,2,20,40,Digital Wallet
+1224,2025-02-12,12:11,Wednesday,Cappuccino,1,20,20,Cash
+1225,2025-02-12,17:56,Wednesday,Latte,2,20,40,Card
+1226,2025-02-12,14:57,Wednesday,Cappuccino,1,20,20,Digital Wallet
+1227,2025-02-12,08:43,Wednesday,Espresso,1,15,15,Digital Wallet
+1228,2025-02-13,16:36,Thursday,Cappuccino,1,20,20,Cash
+1229,2025-02-13,09:14,Thursday,Espresso,1,15,15,Card
+1230,2025-02-13,11:21,Thursday,Cappuccino,1,20,20,Cash
+1231,2025-02-13,08:05,Thursday,Latte,1,20,20,Digital Wallet
+1232,2025-02-13,16:16,Thursday,Sandwich,2,35,70,Card
+1233,2025-02-13,18:55,Thursday,Sandwich,1,35,35,Digital Wallet
+1234,2025-02-14,08:47,Friday,Cappuccino,1,20,20,Cash
+1235,2025-02-14,08:28,Friday,Latte,1,20,20,Card
+1236,2025-02-14,09:34,Friday,Sandwich,1,35,35,Card
+1237,2025-02-15,16:54,Saturday,Latte,1,20,20,Card
+1238,2025-02-15,16:18,Saturday,Latte,1,20,20,Cash
+1239,2025-02-15,15:47,Saturday,Espresso,1,15,15,Card
+1240,2025-02-15,09:18,Saturday,Espresso,1,15,15,Cash
+1241,2025-02-15,11:32,Saturday,Cappuccino,1,20,20,Cash
+1242,2025-02-15,10:49,Saturday,Cappuccino,2,20,40,Card
+1243,2025-02-15,18:03,Saturday,Espresso,1,15,15,Card
+1244,2025-02-15,12:52,Saturday,Espresso,1,15,15,Digital Wallet
+1245,2025-02-16,09:48,Sunday,Latte,1,20,20,Card
+1246,2025-02-16,17:52,Sunday,Latte,2,20,40,Cash
+1247,2025-02-16,07:39,Sunday,Espresso,1,15,15,Card
+1248,2025-02-16,10:47,Sunday,Pastry,1,25,25,Cash
+1249,2025-02-16,07:50,Sunday,Latte,1,20,20,Card
+1250,2025-02-16,10:01,Sunday,Sandwich,1,35,35,Card
+1251,2025-02-16,10:17,Sunday,Latte,2,20,40,Cash
+1252,2025-02-17,17:04,Monday,Espresso,1,15,15,Cash
+1253,2025-02-17,16:49,Monday,Sandwich,1,35,35,Digital Wallet
+1254,2025-02-17,15:00,Monday,Pastry,1,25,25,Card
+1255,2025-02-17,08:33,Monday,Espresso,1,15,15,Cash
+1256,2025-02-17,14:53,Monday,Cappuccino,1,20,20,Card
+1257,2025-02-17,11:22,Monday,Latte,1,20,20,Card
+1258,2025-02-18,16:15,Tuesday,Pastry,1,25,25,Card
+1259,2025-02-18,11:02,Tuesday,Sandwich,1,35,35,Digital Wallet
+1260,2025-02-18,16:41,Tuesday,Latte,1,20,20,Cash
+1261,2025-02-19,14:50,Wednesday,Sandwich,2,35,70,Cash
+1262,2025-02-19,09:02,Wednesday,Espresso,1,15,15,Card
+1263,2025-02-19,16:57,Wednesday,Cappuccino,2,20,40,Card
+1264,2025-02-19,12:58,Wednesday,Latte,1,20,20,Card
+1265,2025-02-20,16:09,Thursday,Cappuccino,1,20,20,Digital Wallet
+1266,2025-02-20,16:33,Thursday,Espresso,2,15,30,Digital Wallet
+1267,2025-02-20,09:33,Thursday,Espresso,1,15,15,Card
+1268,2025-02-20,08:06,Thursday,Latte,2,20,40,Cash
+1269,2025-02-20,19:03,Thursday,Latte,1,20,20,Digital Wallet
+1270,2025-02-21,10:22,Friday,Latte,1,20,20,Digital Wallet
+1271,2025-02-21,09:56,Friday,Espresso,1,15,15,Card
+1272,2025-02-21,15:09,Friday,Latte,1,20,20,Card
+1273,2025-02-21,08:48,Friday,Espresso,1,15,15,Card
+1274,2025-02-21,12:30,Friday,Cappuccino,1,20,20,Card
+1275,2025-02-22,09:42,Saturday,Cappuccino,1,20,20,Digital Wallet
+1276,2025-02-22,08:14,Saturday,Latte,1,20,20,Card
+1277,2025-02-22,09:46,Saturday,Cappuccino,1,20,20,Card
+1278,2025-02-22,16:56,Saturday,Latte,1,20,20,Card
+1279,2025-02-22,15:00,Saturday,Latte,1,20,20,Card
+1280,2025-02-22,10:23,Saturday,Espresso,1,15,15,Card
+1281,2025-02-23,09:04,Sunday,Sandwich,1,35,35,Cash
+1282,2025-02-23,16:07,Sunday,Cappuccino,1,20,20,Cash
+1283,2025-02-23,09:31,Sunday,Espresso,1,15,15,Card
+1284,2025-02-23,18:06,Sunday,Latte,1,20,20,Digital Wallet
+1285,2025-02-23,09:03,Sunday,Latte,1,20,20,Card
+1286,2025-02-23,11:07,Sunday,Sandwich,1,35,35,Cash
+1287,2025-02-23,16:40,Sunday,Cappuccino,2,20,40,Card
+1288,2025-02-24,08:56,Monday,Pastry,2,25,50,Digital Wallet
+1289,2025-02-24,07:55,Monday,Latte,1,20,20,Digital Wallet
+1290,2025-02-24,17:52,Monday,Pastry,1,25,25,Cash
+1291,2025-02-24,09:19,Monday,Latte,1,20,20,Cash
+1292,2025-02-24,10:14,Monday,Cappuccino,1,20,20,Card
+1293,2025-02-25,07:41,Tuesday,Espresso,1,15,15,Cash
+1294,2025-02-25,08:28,Tuesday,Latte,1,20,20,Card
+1295,2025-02-25,11:08,Tuesday,Espresso,2,15,30,Card
+1296,2025-02-25,19:37,Tuesday,Pastry,1,25,25,Card
+1297,2025-02-25,13:36,Tuesday,Latte,1,20,20,Card
+1298,2025-02-26,15:23,Wednesday,Espresso,1,15,15,Digital Wallet
+1299,2025-02-26,09:06,Wednesday,Cappuccino,1,20,20,Card
+1300,2025-02-26,14:10,Wednesday,Cappuccino,1,20,20,Card
+1301,2025-02-27,18:57,Thursday,Pastry,1,25,25,Digital Wallet
+1302,2025-02-27,10:30,Thursday,Latte,1,20,20,Cash
+1303,2025-02-27,10:48,Thursday,Latte,1,20,20,Digital Wallet
+1304,2025-02-27,07:57,Thursday,Cappuccino,1,20,20,Cash
+1305,2025-02-28,14:12,Friday,Latte,1,20,20,Card
+1306,2025-02-28,15:47,Friday,Cappuccino,1,20,20,Cash
+1307,2025-02-28,15:36,Friday,Espresso,1,15,15,Card
+1308,2025-02-28,19:45,Friday,Cappuccino,2,20,40,Digital Wallet
+1309,2025-02-28,15:15,Friday,Latte,1,20,20,Card
+1310,2025-02-28,07:57,Friday,Pastry,1,25,25,Card
